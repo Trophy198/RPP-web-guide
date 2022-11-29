@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/RPP-web-guide/static/css/main.073c9b0a.css",
-    "main.js": "/RPP-web-guide/static/js/main.7561b9bd.js",
-    "static/js/787.0c3f432a.chunk.js": "/RPP-web-guide/static/js/787.0c3f432a.chunk.js",
-    "static/media/logo.svg": "/RPP-web-guide/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/RPP-web-guide/static/css/main.207116e3.css",
+    "main.js": "/RPP-web-guide/static/js/main.58c37df8.js",
+    "static/media/2.jpg": "/RPP-web-guide/static/media/2.bbb41348bb839b9124d8.jpg",
+    "static/media/12.jpg": "/RPP-web-guide/static/media/12.257c5311e1cae5638aad.jpg",
+    "static/media/night.jpg": "/RPP-web-guide/static/media/night.ac6d287d5d0014553b87.jpg",
     "index.html": "/RPP-web-guide/index.html",
-    "main.073c9b0a.css.map": "/RPP-web-guide/static/css/main.073c9b0a.css.map",
-    "main.7561b9bd.js.map": "/RPP-web-guide/static/js/main.7561b9bd.js.map",
-    "787.0c3f432a.chunk.js.map": "/RPP-web-guide/static/js/787.0c3f432a.chunk.js.map"
+    "main.207116e3.css.map": "/RPP-web-guide/static/css/main.207116e3.css.map",
+    "main.58c37df8.js.map": "/RPP-web-guide/static/js/main.58c37df8.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.7561b9bd.js"
+    "static/css/main.207116e3.css",
+    "static/js/main.58c37df8.js"
   ]
 }
