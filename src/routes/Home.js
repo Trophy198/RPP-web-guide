@@ -1,6 +1,7 @@
 import main from "../assets/main.png"
 import Navbar from "../components/Navbar";
 import { Link } from "react-router-dom";
+import Destination from "../components/Destination";
 function Home () {
     return(
         <>
@@ -14,8 +15,8 @@ function Home () {
             <Link to="/settings" className="show">
             Get Start
             </Link>
-
         </div>
+        <Destination/>
         </>
     )
 }
