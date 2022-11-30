@@ -17,8 +17,8 @@
 
 img{
     width: 100%;
-    height: 55vw;
-    object-fit: cover;
+    height: 100%;
+    object-fit:cover;
 }
 
 .hero-text {
@@ -69,11 +69,5 @@ img{
         padding: 0.6rem 1.1rem;
         border-radius: 6px;
         font-size: 1rem;
-    }
-    img{
-        width: 100%;
-        height: 100vh;
-        object-fit: cover;
-    
     }
 }
