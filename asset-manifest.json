@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/RPP-web-guide/static/css/main.6e755bff.css",
-    "main.js": "/RPP-web-guide/static/js/main.715eb4cd.js",
+    "main.css": "/RPP-web-guide/static/css/main.108ea87a.css",
+    "main.js": "/RPP-web-guide/static/js/main.010596ca.js",
     "static/media/main.png": "/RPP-web-guide/static/media/main.7ea62adaa128ce6afd51.png",
     "static/media/2.jpg": "/RPP-web-guide/static/media/2.bbb41348bb839b9124d8.jpg",
+    "static/media/1.jpg": "/RPP-web-guide/static/media/1.509d4d795248ac9962f3.jpg",
     "static/media/night.jpg": "/RPP-web-guide/static/media/night.ac6d287d5d0014553b87.jpg",
     "index.html": "/RPP-web-guide/index.html",
-    "main.6e755bff.css.map": "/RPP-web-guide/static/css/main.6e755bff.css.map",
-    "main.715eb4cd.js.map": "/RPP-web-guide/static/js/main.715eb4cd.js.map"
+    "main.108ea87a.css.map": "/RPP-web-guide/static/css/main.108ea87a.css.map",
+    "main.010596ca.js.map": "/RPP-web-guide/static/js/main.010596ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e755bff.css",
-    "static/js/main.715eb4cd.js"
+    "static/css/main.108ea87a.css",
+    "static/js/main.010596ca.js"
   ]
 }
