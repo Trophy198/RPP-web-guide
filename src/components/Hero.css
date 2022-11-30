@@ -51,9 +51,22 @@ img{
     color: #222;
 
 }
+.hero-text .show:hover{
+    background: red;
+    color: white;
+    transition: 0.2s ease-in-out;
+}
 
 .hero-text .hide {
     display: none;
+}
+
+.hero-text .link-texts{
+
+}
+.hero-text .link-texts .link-text {
+    text-decoration: none;
+    color: green;
 }
 
 @media screen and (max-width: 555px) {
