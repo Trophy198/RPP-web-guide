@@ -1,4 +1,4 @@
-import car from "../assets/12.jpg"
+import main from "../assets/main.png"
 import Navbar from "../components/Navbar";
 import { Link } from "react-router-dom";
 function Home () {
@@ -6,7 +6,7 @@ function Home () {
         <>
         <Navbar/>
         <div className="hero">
-            <img alt="HerpImg" src={car}/>
+            <img alt="HerpImg" src={main}/>
         </div>
         <div className="hero-text">
             <h1>rustPlusPlus ~ Rust+ Discord Bot</h1>
