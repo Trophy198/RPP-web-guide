@@ -11,7 +11,10 @@ class Navbar extends Component {
     render() {
         return (
              <nav className='NavbarItems'>
-                <h1 className='navbar-logo'>RUST++</h1>
+                <Link to="/" className='navbar-logo-links'>
+                    <h1 className='navbar-logo'>RUST++</h1>
+                    </Link>
+                
                 <div className='menu-icons' onClick={this.handleClick}>
                     <i className={this.state.clicked ? "fas fa-times" : "fas fa-bars"}></i>
                 </div>

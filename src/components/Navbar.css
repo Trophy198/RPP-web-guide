@@ -19,6 +19,10 @@
     color: #222;
     font-size: 2rem;
     cursor: pointer;
+    
+}
+.navbar-logo-links{
+    text-decoration: none;
 }
 
 .nav-menu{
