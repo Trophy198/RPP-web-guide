@@ -4,6 +4,24 @@
     position: relative;
 
 }
+.main{
+    width: 100%;
+    height: 100vh;
+
+}
+video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,.4);
+}
 
 .hero-mid{
     width: 100%;

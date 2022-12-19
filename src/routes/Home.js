@@ -2,12 +2,14 @@ import main from "../assets/main.png"
 import Navbar from "../components/Navbar";
 import { Link } from "react-router-dom";
 import Destination from "../components/Destination";
+import videoBg from '../assets/videoBg.mp4';
 function Home () {
     return(
         <>
         <Navbar/>
-        <div className="hero">
-            <img alt="HerpImg" src={main}/>
+        <div className="main">
+            <div className="overlay"></div>
+            <video src={videoBg} autoPlay loop muted />
         </div>
         <div className="hero-text">
             <h1>rustPlusPlus ~ Rust+ Discord Bot</h1>
